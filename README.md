@@ -1,3 +1,4 @@
+d test
 # The Riak Wiki
 
 This repo holds all the content (and other bits) for the most-excellent Riak wiki, located at [wiki.basho.com][basho-wiki].
@@ -60,6 +61,7 @@ If you want to build and view the Riak Wiki locally, here is what you need to do
                                     # when changes are made
 
 5. Navigate to <http://localhost:8000/> (Default) to access a fully-functional copy of the Riak Wiki.
+
 
 
 ## Updating wiki.basho.com
