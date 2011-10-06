@@ -61,6 +61,7 @@ If you want to build and view the Riak Wiki locally, here is what you need to do
 
 5. Navigate to <http://localhost:8000/> (Default) to access a fully-functional copy of the Riak Wiki.
 
+
 ## Updating wiki.basho.com
 
 After adding new content or updating existing content in the wiki repo, it then needs to be pushed live to wiki.basho.com. We do this using a post-receive hook [(written by Basho's Dan Reverri)](https://github.com/dreverri/repo-sync-webhook) and the "publish" branch. Here's the process to update the live site. **(Only people who have commit access to this repo will be able to do this.)** 
